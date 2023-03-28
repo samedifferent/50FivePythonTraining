@@ -42,7 +42,7 @@ print(string.isdigit())  # True
 string = "Hello"
 print(string.isalpha())  # True
 
-# The len() method can be used to check the length of a string.
+# The len() function can be used to check the length of a string.
 # This method is used a bit differently. The string goes inside of it.
 print(len(string))  # 5
 

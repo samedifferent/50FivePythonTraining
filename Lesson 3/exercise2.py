@@ -3,7 +3,7 @@
 # Ask the user to input their first number, and store it in a variable.
 # Ask the user to input their second number, and store it in a different variable.
 # Ask the user which operator (+, -, *, /) they would like to use on the numbers, and store it in a variable.
-# Use a chain of if/ifel/else statements to print the appropriate result.
+# Use a chain of if/elif/else statements to print the appropriate result.
 # If the user did not enter one of those 4 valid operators, print an error message to the user with their input concatenated with the phrase " is not a valid operator".
 
 
